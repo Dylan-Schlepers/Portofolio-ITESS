@@ -33,6 +33,7 @@ const ASSESSMENTS = [
   // No assessments yet - copy the TEMPLATE below to add your first one.
   {
   id: "Best lesson",
+  title: "My Best Lesson Plan",
   course: "educational studies",
   year: 1,
   period: "Semester 1, Period 1",
