@@ -10,7 +10,7 @@
     id       - unique, short, no spaces (used in the page URL)
     title    - name of the assessment / assignment
     course   - the course or module it belongs to
-    year     - 1, 2, 3 or 4 — which year it belongs to
+    year     - 1, 2, 3 or 4 - which year it belongs to
     period   - e.g. "Semester 1, Period 1" or a date
     status   - "planned" | "progress" | "completed"
     summary  - one or two sentences, shown on the year overview card
@@ -30,7 +30,13 @@
 */
 
 const ASSESSMENTS = [
-  // No assessments yet — copy the TEMPLATE below to add your first one.
+  // No assessments yet - copy the TEMPLATE below to add your first one.
+  id: "Best lesson",
+  course: "educational studies",
+  year: 1,
+  period:"Semester1, Period 1"
+  status: "planned",
+  summary
 ];
 
 /* ---------- TEMPLATE (copy this block) ----------
