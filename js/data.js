@@ -40,10 +40,14 @@ const ASSESSMENTS = [
     status: "completed",
     summary: "For this formative assessment we have to prepare our best lesson plan. The goal is to learn and evaluate big ideas about lesson planning, identify the steps, and define and create solid lesson objectives.",
     description: "The concept for this lesson plan is: Migration, and is for a lesson length of 45 minutes. The targeted audience is 12-13 years old on a MYP school with a class of 24 students.",
-    reflection: "Key Strengths:Inquiry-Driven: Built around the MYP concept of Time, Place and Space, challenging students to investigate and analyze rather than receive information passively. 
-      "Collaborative Mapping: Utilizes an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.   
-      "Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.  
-      "Areas for Growth:Integrating explicit formative assessment checkpoints during the research phase.Deepening the explicit instruction of source evaluation and information literacy skills.",
+    reflection: `Key Strengths:
+- Inquiry-Driven: Built around the MYP concept of Time, Place and Space, challenging students to investigate and analyze rather than receive information passively.
+- Collaborative Mapping: Utilizes an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.
+- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.
+
+Areas for Growth:
+- Integrating explicit formative assessment checkpoints during the research phase.
+- Deepening the explicit instruction of source evaluation and information literacy skills.`,
     image: "images/MyBestLessonPlan_ES.png",
     files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
   },
