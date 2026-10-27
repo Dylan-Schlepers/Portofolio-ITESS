@@ -61,7 +61,7 @@ Areas for Growth:
     description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.\n\nMy main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.\n\nThe Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
     reflection: "",
     image: "images/TheEggTheoryPica.png",
-    files: []
+    files: [[{ name: "Egg Theory (PDF)", url: "Portofolio-PDFs/Egg Theory.pdf" }]]
   }
 ];
 /* ---------- TEMPLATE (copy this block) ----------
