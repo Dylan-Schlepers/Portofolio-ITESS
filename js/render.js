@@ -7,9 +7,68 @@ function statusLabel(status) {
 }
 
 function escapeHtml(str) {
-  const div = document.createElement("div");
-  div.textContent = str == null ? "" : String(str);
-  return div.innerHTML;
+  return String(str == null ? "" : str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+/* ---------------- Text formatter ----------------
+   Turns plain text written in data.js into readable HTML:
+   - a blank line starts a new paragraph
+   - a single line break stays a line break
+   - lines starting with "- " (or "* ", or a bullet) become a bullet list
+   - a short line ending in ":" becomes a small sub-heading
+   - **double asterisks** make text bold
+   Everything is escaped first, so it is safe to type any text.        */
+function formatText(text) {
+  if (!text) return "";
+
+  const inline = (s) => escapeHtml(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+
+  const blocks = String(text).replace(/\r\n/g, "\n").trim().split(/\n\s*\n/);
+  let html = "";
+
+  blocks.forEach((block) => {
+    const lines = block.split("\n").map((l) => l.trim()).filter(Boolean);
+    let listItems = [];
+    let paraLines = [];
+
+    const flushList = () => {
+      if (listItems.length) {
+        html += `<ul>${listItems.map((li) => `<li>${inline(li)}</li>`).join("")}</ul>`;
+        listItems = [];
+      }
+    };
+    const flushPara = () => {
+      if (paraLines.length) {
+        html += `<p>${paraLines.map(inline).join("<br>")}</p>`;
+        paraLines = [];
+      }
+    };
+
+    lines.forEach((line) => {
+      const bullet = line.match(/^(?:[-*\u2022])\s+(.*)$/);
+      if (bullet) {
+        flushPara();
+        listItems.push(bullet[1]);
+      } else if (line.endsWith(":") && line.length <= 60) {
+        flushList();
+        flushPara();
+        html += `<h3 class="text-subhead">${inline(line.slice(0, -1))}</h3>`;
+      } else {
+        flushList();
+        paraLines.push(line);
+      }
+    });
+
+    flushList();
+    flushPara();
+  });
+
+  return html;
 }
 
 /* ---------------- Shared header: banner + nav + breadcrumb ---------------- */
@@ -168,7 +227,7 @@ function renderDetail() {
     : "";
 
   const reflectionHtml = entry.reflection
-    ? `<h2>Reflection</h2><p>${escapeHtml(entry.reflection)}</p>`
+    ? `<h2>Reflection</h2><div class="rich-text">${formatText(entry.reflection)}</div>`
     : "";
 
   const imageHtml = entry.image
@@ -188,9 +247,9 @@ function renderDetail() {
     <div class="wrap detail-body">
       ${imageHtml}
       <h2>Summary</h2>
-      <p>${escapeHtml(entry.summary)}</p>
+      <div class="rich-text">${formatText(entry.summary)}</div>
       <h2>Description</h2>
-      <p>${escapeHtml(entry.description)}</p>
+      <div class="rich-text">${formatText(entry.description)}</div>
       ${reflectionHtml}
       ${filesHtml}
     </div>
