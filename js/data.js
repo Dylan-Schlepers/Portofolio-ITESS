@@ -39,7 +39,14 @@ const ASSESSMENTS = [
     status: "completed",
     summary: "For this assessment, we had to prepare our best lesson plan. The goal is to learn and evaluate big ideas about lesson planning, identify the steps, and define and create solid lesson objectives.",
     description: "The concept for this lesson plan is Migration, designed for a 45-minute lesson. The targeted audience is 12-13 year olds at an MYP school with a class of 24 students.",
-    reflection: "Key Strengths:<br>- Inquiry-Driven: Built around the MYP concept of Time, Place, and Space, challenging students to investigate and analyze rather than receive information passively.<br>- Collaborative Mapping: Utilizing an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.<br>- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.<br><br>Areas for Growth:<br>- Integrating explicit formative assessment checkpoints during the research phase.<br>- Deepening the explicit instruction of source evaluation and information literacy skills.",
+    reflection: `Key Strengths:
+- Inquiry-Driven: Built around the MYP concept of Time, Place, and Space, challenging students to investigate and analyze rather than receive information passively.
+- Collaborative Mapping: Utilizing an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.
+- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.
+
+Areas for Growth:
+- Integrating explicit formative assessment checkpoints during the research phase.
+- Deepening the explicit instruction of source evaluation and information literacy skills.`,
     image: "images/MyBestLessonPlan_ES.png",
     files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
   },
@@ -51,7 +58,7 @@ const ASSESSMENTS = [
     period: "Semester 1, Period 1",
     status: "planned",
     summary: "A 10-minute lesson where we had to teach something 'new' to our peers, for which I chose The Egg Theory.",
-    description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.<br>My main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.<br>The Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
+    description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.\n\nMy main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.\n\nThe Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
     reflection: "",
     image: "",
     files: []
