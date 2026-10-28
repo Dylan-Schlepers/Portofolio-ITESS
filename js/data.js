@@ -57,11 +57,27 @@ Areas for Growth:
     year: 1,
     period: "Semester 1, Period 1",
     status: "completed",
-    summary: "A 10-minute mini-lesson introducing peers to the philosophical concept of 'The Egg Theory', focusing on inquiry and shifting perspectives.",
-    description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.\n\nMy main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.\n\nThe Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
+    summary: "A 10-minute micro-teaching session introducing peers to the philosophical concept of 'The Egg Theory' through a structured PowerPoint presentation.",
+    description: "For Task 1, I prepared and delivered a 10-minute mini-lesson in a guided semi-authentic context to introduce my peer student teachers to a 'new' unknown subject: The Egg Theory.\n\nThe objective was to spark philosophical inquiry, challenge perspectives on human life, and practice the 'plan-teach-evaluate' cycle by structuring a concise beginning, middle, and end within a strict time limit.",
+    reflection: "For my detailed self-analysis, peer feedback evaluation, and actionable re-teaching improvements, please see Task 2.",
+    image: "images/TheEggTheoryPica.png",
+    files: [
+      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
+      { name: "Mini-Lesson Video Recording", url: "YOUR_VIDEO_LINK_HERE" }
+    ]
+  },
+  {
+    id: "task_2",
+    title: "The Egg Theory - Reflection",
+    course: "Educational Studies",
+    year: 1,
+    period: "Semester 1, Period 1",
+    status: "completed",
+    summary: "A comprehensive reflection on my mini-lesson, peer feedback, and observations from attending peer micro-teaching sessions.",
+    description: "A critical reflection covering my recorded video, received peer feedback forms, areas for improvement (such as pacing and technical setup), and observations from watching my peers teach.",
     reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I plan to incorporate student-centered tasks, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/TheEggTheoryPica.png",
-    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966 (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966.pdf" }]
+    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }]
   }
 ];
 /* ---------- TEMPLATE (copy this block) ----------
