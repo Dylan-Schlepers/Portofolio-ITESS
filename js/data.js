@@ -61,7 +61,7 @@ Areas for Growth:
     description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.\n\nMy main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.\n\nThe Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
     reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I plan to incorporate student-centered tasks, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/TheEggTheoryPica.png",
-    files: [{ name: "Reflection Mini Lesson-Dy (PDF)", url: "Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }]
+    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966 (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966.pdf" }]
   }
 ];
 /* ---------- TEMPLATE (copy this block) ----------
