@@ -50,18 +50,18 @@ Areas for Growth:
     image: "images/MyBestLessonPlan_ES.png",
     files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
   },
-  {
+{
     id: "task_1",
     title: "The Egg Theory - Mini Lesson",
     course: "Educational Studies",
     year: 1,
     period: "Semester 1, Period 1",
-    status: "planned",
-    summary: "A 10-minute lesson where we had to teach something 'new' to our peers, for which I chose The Egg Theory.",
+    status: "completed",
+    summary: "A 10-minute mini-lesson introducing peers to the philosophical concept of 'The Egg Theory', focusing on inquiry and shifting perspectives.",
     description: "Using a PowerPoint presentation, I taught the class about a philosophical concept called 'The Egg Theory'.\n\nMy main objective for this lesson was to introduce my peers and teacher to philosophical inquiry and show them that philosophy can be quite interesting.\n\nThe Egg Theory serves as a great starting point because the format is engaging and relatively easy to understand, while still challenging people to think differently about how others experience life.",
-    reflection: "",
+    reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I plan to incorporate student-centered tasks, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/TheEggTheoryPica.png",
-    files: [{ name: "Egg Theory (PDF)", url: "Egg Theory.pdf" }]
+    files: [{ name: "Reflection Mini Lesson-Dy (PDF)", url: "Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }]
   }
 ];
 /* ---------- TEMPLATE (copy this block) ----------
