@@ -79,7 +79,26 @@ Areas for Growth:
     image: "images/TheEggTheoryPica.png",
     files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }]
   }
-];
+],
+
+{
+  id: "active-learning-teaching-styles",
+  title: "Active Learning and Teaching Styles in History Lessons",
+  course: "Educational Studies 1.1",
+  year: 1,
+  period: "Semester 1, Period 1",
+  status: "completed",
+  summary: "An exploration of active learning principles, Vygotsky's constructivism, and Mosston's spectrum of teaching styles applied to history education.",
+  description: "Examined the theoretical foundations of active learning, contrasting it with passive instruction and busywork. Developed ten practical, tech-integrated history activities mapped across Mosston's teaching styles, Bloom's taxonomy levels, and structured planning criteria.",
+  reflection: "",
+  image: "images/ActiveLearning.jpg",
+  files: [
+    {
+      name: "Active Learning & Teaching Styles PDF",
+      path: "Portofolio-PDFs/ActiveLearning&TeachingStyles-DylanSchlepers5882966.pdf"
+    }
+  ]
+}
 /* ---------- TEMPLATE (copy this block) ----------
 {
   id: "assessment-1",
