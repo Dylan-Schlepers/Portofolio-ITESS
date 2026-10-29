@@ -16,7 +16,7 @@ const ASSESSMENTS = [
 Areas for Growth:
 - Integrating explicit formative assessment checkpoints during the research phase.
 - Deepening the explicit instruction of source evaluation and information literacy skills.`,
-    image: "images/MyBestLessonPlan_ES.png",
+    image: "images/MigrationPica.jpg",
     files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
   },
   {
@@ -32,7 +32,7 @@ Areas for Growth:
     image: "images/EggyTheory.jpg",
     files: [
       { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
-      { name: "Mini-Lesson Video Recording", url: "YOUR_VIDEO_LINK_HERE" }
+      { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
     ]
   },
   {
