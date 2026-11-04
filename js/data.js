@@ -91,7 +91,12 @@ Areas for Growth:
 - Deepening explicit instruction around medieval medical misconceptions vs. modern science.
 - Further optimizing formative checkpoints during independent pair work.`,
     image: "images/BlackDeathPersona.webp",
-    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" }]
+ files: [
+      { name: "StudentHandout-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers", url: "Portofolio-PDFs/StudentHandout-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers.pdf" },
+      { name: "GradingPaper-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers", url: "Portofolio-PDFs/GradingPaper-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers.pdf" },
+      { name: "EducationalStudies-Lesson plan - BlackDeathVSCovid -", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" },
+      { name: "WrittenMotivationBlackDeathLessenPlan-DylanSchlepers", url: "Portofolio-PDFs/Written Motivation.pdf" }
+    ]
   },
   {
     id: "reading-notes_ES1.1Reflection",
