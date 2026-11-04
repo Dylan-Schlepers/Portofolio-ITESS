@@ -38,21 +38,40 @@ Areas for Growth:
   },
   {
     id: "task_2",
-    title: "The Egg Theory - Reflection",
+    title: "The Egg Theory - Reflection & Redesign",
     course: "Educational Studies",
     year: 1,
     period: "Semester 1, Period 1",
     status: "completed",
-    summary: "A comprehensive reflection on my mini-lesson, peer feedback, and observations from attending peer micro-teaching sessions. With a updated version of the lesson",
-    description: "A critical reflection covering my recorded video, received peer feedback forms, areas for improvement (such as pacing and technical setup), and observations from watching my peers teach.",
-    reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I plan to incorporate student-centered tasks, structured activities, and purposeful hand gestures to drive engagement.",
+    summary: "A comprehensive reflection on my mini-lesson, peer feedback, observations from peer sessions, and an updated lesson redesign featuring active learning elements.",
+    description: "A critical reflection covering my recorded video, received peer feedback forms, areas for improvement (such as pacing, interactive student tasks like the 3-step cosmic puzzle, and technical setup), alongside the updated lesson plan version.",
+    reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I integrated student-centered tasks like the cosmic puzzle, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/EggyTheory.jpg",
-    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }],
-           [{ name: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers" }],
-           { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
-    
+    files: [
+      { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" },
+      { name: "Updated Lesson Plan After Feedback (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers.pdf" },
+      { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" }
+    ]
   },
-{
+  {
+    id: "reading-notes",
+    title: "Professional Studies Reading Notes",
+    course: "Educational Studies 1.1",
+    year: 1,
+    period: "Semester 1, Period 1",
+    status: "completed",
+    summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', and LTSS theoretical frameworks.",
+    description: "Comprehensive notes and theoretical analyses based on compulsory course readings, focusing on classroom routines, behavior as communication, cognitive load theory, and active learning integration.",
+    reflection: `Compiling these reading notes helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. Furthermore, connecting cognitive load theory and Vygotsky's social constructivism to history pedagogy reinforced how crucial clear instructions and structured interactions are for maintaining an effective learning environment.`,
+    image: "images/ActiveLearning.jpg",
+    files: [
+      {
+        name: "Reading Notes PDF",
+        url: "Portofolio-PDFs/ReadingNotes_DylanSchlepers-ITESS.pdf"
+      }
+    ]
+  },
+  {
     id: "active-learning-teaching-styles",
     title: "Active Learning and Teaching Styles in History Lessons",
     course: "Educational Studies 1.1",
