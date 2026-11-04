@@ -7,19 +7,36 @@ const ASSESSMENTS = [
     period: "Semester 1, Period 1",
     status: "completed",
     summary: "For this assessment, we had to prepare our best lesson plan. The goal is to learn and evaluate big ideas about lesson planning, identify the steps, and define and create solid lesson objectives.",
-    description: "The concept for this lesson plan is Migration, designed for a 45-minute lesson. The targeted audience is 12-13 year olds at an MYP school with a class of 24 students.",
+    description: "The concept for this lesson plan is Black Death vs. COVID-19, designed for a 50-minute lesson. The targeted audience is Grade 7 (12-year-olds) at an MYP school with a class of 20 students.",
     reflection: `Key Strengths:
-- Inquiry-Driven: Built around the MYP concept of Time, Place, and Space, challenging students to investigate and analyze rather than receive information passively.
-- Collaborative Mapping: Utilizing an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.
-- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.
+- Inquiry-Driven: Built around the Big History Project and MYP concepts of scale-shifting and network connectivity, challenging students to investigate historical continuity.
+- Comparative Analysis: Utilizing an effective worksheet activity where students compare micro and macro dynamics between 1347 and 2020.
+- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks, scaffolding, and educational theory.
 
 Areas for Growth:
-- Integrating explicit formative assessment checkpoints during the research phase.
-- Deepening the explicit instruction of source evaluation and information literacy skills.`,
-    image: "images/MigrationPica.jpg",
-    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
+- Deepening explicit instruction around medieval medical misconceptions vs. modern science.
+- Further optimizing formative checkpoints during independent pair work.`,
+    image: "images/BlackDeathPersona.webp",
+    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" }]
   },
-
+  {
+    id: "task_1",
+    title: "The Egg Theory - Mini Lesson",
+    course: "Educational Studies",
+    year: 1,
+    period: "Semester 1, Period 1",
+    status: "completed",
+    summary: "A 10-minute micro-teaching session introducing peers to the philosophical concept of 'The Egg Theory' through a structured PowerPoint presentation.",
+    description: "For Task 1, I prepared and delivered a 10-minute mini-lesson in a guided semi-authentic context to introduce my peer student teachers to a 'new' unknown subject: The Egg Theory.\n\nThe objective was to spark philosophical inquiry, challenge perspectives on human life, and practice the 'plan-teach-evaluate' cycle by structuring a concise beginning, middle, and end within a strict time limit.",
+    reflection: "For my detailed self-analysis, peer feedback evaluation, and actionable re-teaching improvements, please see Task 2.",
+    image: "images/EggyTheory.jpg",
+    files: [
+      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
+      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
+      { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
+    ]
+  },
+  {
     id: "task_2",
     title: "The Egg Theory - Reflection & Redesign",
     course: "Educational Studies",
@@ -55,8 +72,7 @@ It showed me the importance of letting the students actively participate in the 
         url: "Portofolio-PDFs/ActiveLearning&TeachingStyles-DylanSchlepers5882966.pdf"
       }
     ]
-  }
-],
+  },
   {
     id: "reading-notes",
     title: "Professional Studies Reading Notes",
@@ -75,3 +91,4 @@ It showed me the importance of letting the students actively participate in the 
       }
     ]
   }
+];
