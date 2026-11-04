@@ -7,17 +7,17 @@ const ASSESSMENTS = [
     period: "Semester 1, Period 1",
     status: "completed",
     summary: "For this assessment, we had to prepare our best lesson plan. The goal is to learn and evaluate big ideas about lesson planning, identify the steps, and define and create solid lesson objectives.",
-    description: "The concept for this lesson plan is Black Death vs. COVID-19, designed for a 50-minute lesson. The targeted audience is Grade 7 (12-year-olds) at an MYP school with a class of 20 students.",
+    description: "The concept for this lesson plan is Migration, designed for a 45-minute lesson. The targeted audience is 12-13 year olds at an MYP school with a class of 24 students.",
     reflection: `Key Strengths:
-- Inquiry-Driven: Built around the Big History Project and MYP concepts of scale-shifting and network connectivity, challenging students to investigate historical continuity.
-- Comparative Analysis: Utilizing an effective worksheet activity where students compare micro and macro dynamics between 1347 and 2020.
-- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks, scaffolding, and educational theory.
+- Inquiry-Driven: Built around the MYP concept of Time, Place, and Space, challenging students to investigate and analyze rather than receive information passively.
+- Collaborative Mapping: Utilizing an effective 'jigsaw' group activity where students pool unique historical and modern migration data to map push and pull factors.
+- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks and educational theory.
 
 Areas for Growth:
-- Deepening explicit instruction around medieval medical misconceptions vs. modern science.
-- Further optimizing formative checkpoints during independent pair work.`,
-    image: "images/BlackDeathPersona.webp",
-    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" }]
+- Integrating explicit formative assessment checkpoints during the research phase.
+- Deepening the explicit instruction of source evaluation and information literacy skills.`,
+    image: "images/MigrationPica.jpg",
+    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/Migration.pdf" }]
   },
   {
     id: "task_1",
@@ -72,6 +72,26 @@ It showed me the importance of letting the students actively participate in the 
         url: "Portofolio-PDFs/ActiveLearning&TeachingStyles-DylanSchlepers5882966.pdf"
       }
     ]
+  },
+  {
+    id: "Task_4",
+    title: "BlackDeathVSCovid-19",
+    course: "educational studies",
+    year: 1,
+    period: "Semester 1, Period 1",
+    status: "completed",
+    summary: "For this assessment, we had to prepare our best lesson plan. The goal is to learn and evaluate big ideas about lesson planning, identify the steps, and define and create solid lesson objectives.",
+    description: "The concept for this lesson plan is Black Death vs. COVID-19, designed for a 50-minute lesson. The targeted audience is Grade 7 (12-year-olds) at an MYP school with a class of 20 students.",
+    reflection: `Key Strengths:
+- Inquiry-Driven: Built around the Big History Project and MYP concepts of scale-shifting and network connectivity, challenging students to investigate historical continuity.
+- Comparative Analysis: Utilizing an effective worksheet activity where students compare micro and macro dynamics between 1347 and 2020.
+- Clear Alignment: Learning objectives are measurable and closely tied to classroom tasks, scaffolding, and educational theory.
+
+Areas for Growth:
+- Deepening explicit instruction around medieval medical misconceptions vs. modern science.
+- Further optimizing formative checkpoints during independent pair work.`,
+    image: "images/BlackDeathPersona.webp",
+    files: [{ name: "Lesson plan (PDF)", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" }]
   },
   {
     id: "reading-notes_ES1.1Reflection",
