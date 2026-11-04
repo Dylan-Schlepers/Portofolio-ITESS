@@ -74,22 +74,22 @@ It showed me the importance of letting the students actively participate in the 
       }
     ]
   }
-];
+],
   {
-    id: "task_1",
-    title: "The Egg Theory - Mini Lesson",
-    course: "Educational Studies",
+    id: "reading-notes",
+    title: "Professional Studies Reading Notes",
+    course: "Educational Studies 1.1",
     year: 1,
     period: "Semester 1, Period 1",
     status: "completed",
-    summary: "A 10-minute micro-teaching session introducing peers to the philosophical concept of 'The Egg Theory' through a structured PowerPoint presentation.",
-    description: "For Task 1, I prepared and delivered a 10-minute mini-lesson in a guided semi-authentic context to introduce my peer student teachers to a 'new' unknown subject: The Egg Theory.\n\nThe objective was to spark philosophical inquiry, challenge perspectives on human life, and practice the 'plan-teach-evaluate' cycle by structuring a concise beginning, middle, and end within a strict time limit.",
-    reflection: "For my detailed self-analysis, peer feedback evaluation, and actionable re-teaching improvements, please see Task 2.",
-    image: "images/EggyTheory.jpg",
+    summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', and LTSS theoretical frameworks.",
+    description: "Comprehensive notes and theoretical analyses based on compulsory course readings, focusing on classroom routines, behavior as communication, cognitive load theory, and active learning integration.",
+    reflection: `Compiling these reading notes helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. Furthermore, connecting cognitive load theory and Vygotsky's social constructivism to history pedagogy reinforced how crucial clear instructions and structured interactions are for maintaining an effective learning environment.`,
+    image: "images/ActiveLearning.jpg",
     files: [
-      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
-      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
-      { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
+      {
+        name: "Reading Notes PDF",
+        url: "Portofolio-PDFs/ReadingNotes_DylanSchlepers-ITESS.pdf"
+      }
     ]
-  },
-  {
+  }
