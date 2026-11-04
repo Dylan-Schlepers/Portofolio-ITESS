@@ -50,7 +50,7 @@ Areas for Growth:
     files: [
       { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson -DylanSchlepers-5882966.pdf" },
       { name: "Updated Lesson Plan After Feedback (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers.pdf" },
-      { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" }
+      { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" }
     ]
   },
   {
@@ -110,7 +110,7 @@ Areas for Growth:
     reflection: `Compiling these reading notes and the ES 1.1 reflection helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. 
 
 Reflecting on my overall learning during ES 1.1, my vision of teaching has evolved from a presentation-focused model to an interactive, student-centered approach rooted in constructivism (Piaget, Vygotsky). Furthermore, evaluating my study behavior as a 'Strategic' learner has made me mindful of prioritizing key pedagogical frameworks. As I prepare for my first Teaching Practice in Quarter 3 at the International School of Belgium, my goals focus on balancing youthful energy with professional authority, deepening my subject-matter preparation, and refining my classroom management skills.`,
-    image: "images/NotesPica.jpg",
+    image: "images/NotesPica.webp",
     files: [
       {
         name: "Reading Notes PDF",
