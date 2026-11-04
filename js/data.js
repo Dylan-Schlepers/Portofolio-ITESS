@@ -51,6 +51,7 @@ Areas for Growth:
       { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966.pdf" },
       { name: "Updated Lesson Plan After Feedback (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers.pdf" },
       { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" }
+      { name: "3-Step-ComicPuzzle game (PDF)", url: "Portofolio-PDFs/3-StepCosmicPuzzle-DylanSchlepers.pdf" }
     ]
   },
   {
