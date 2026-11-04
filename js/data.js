@@ -67,7 +67,7 @@ It showed me the importance of letting the students actively participate in the 
     summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', and LTSS theoretical frameworks.",
     description: "Comprehensive notes and theoretical analyses based on compulsory course readings, focusing on classroom routines, behavior as communication, cognitive load theory, and active learning integration.",
     reflection: `Compiling these reading notes helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. Furthermore, connecting cognitive load theory and Vygotsky's social constructivism to history pedagogy reinforced how crucial clear instructions and structured interactions are for maintaining an effective learning environment.`,
-    image: "images/ActiveLearning.jpg",
+    image: "images/NotesPica.jpg",
     files: [
       {
         name: "Reading Notes PDF",
