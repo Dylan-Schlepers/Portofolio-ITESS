@@ -50,7 +50,7 @@ Areas for Growth:
     files: [
       { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson-DylanSchlepers-5882966.pdf" },
       { name: "Updated Lesson Plan After Feedback (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers.pdf" },
-      { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" }
+      { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
       { name: "3-Step-ComicPuzzle game (PDF)", url: "Portofolio-PDFs/3-StepCosmicPuzzle-DylanSchlepers.pdf" }
     ]
   },
@@ -92,7 +92,7 @@ Areas for Growth:
 - Deepening explicit instruction around medieval medical misconceptions vs. modern science.
 - Further optimizing formative checkpoints during independent pair work.`,
     image: "images/BlackDeathPersona.webp",
- files: [
+    files: [
       { name: "StudentHandout - Worksheet - Crises Across Centuries Black Death VS Covid - DylanSchlepers", url: "Portofolio-PDFs/StudentHandout-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers.pdf" },
       { name: "GradingPaper - Worksheet - Crises Across Centuries Black Death VS Covid - DylanSchlepers", url: "Portofolio-PDFs/GradingPaper-Worksheet-CrisesAcrossCenturiesBlackDeathVSCovid-DylanSchlepers.pdf" },
       { name: "EducationalStudies-Lesson plan - BlackDeathVSCovid -", url: "Portofolio-PDFs/EducationalStudies-Lesson plan - BlackDeathVSCovid -.pdf" },
