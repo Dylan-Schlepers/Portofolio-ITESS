@@ -31,8 +31,8 @@ Areas for Growth:
     reflection: "For my detailed self-analysis, peer feedback evaluation, and actionable re-teaching improvements, please see Task 2.",
     image: "images/EggyTheory.jpg",
     files: [
-      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
-      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
+      { name: "Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
+      { name: "The Egg Theory - PowerPoint (PDF)", url: "Portofolio-PDFs/EggTheory.pdf" },
       { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
     ]
   },
