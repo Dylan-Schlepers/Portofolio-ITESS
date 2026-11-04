@@ -48,7 +48,7 @@ Areas for Growth:
     reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I integrated student-centered tasks like the cosmic puzzle, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/EggyTheory.jpg",
     files: [
-      { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" },
+      { name: "Reflection Mini Lesson (PDF)", url: "Portofolio-PDFs/Reflection Mini Lesson -DylanSchlepers-5882966.pdf" },
       { name: "Updated Lesson Plan After Feedback (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers.pdf" },
       { name: "Original Lesson Plan (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" }
     ]
@@ -74,7 +74,7 @@ It showed me the importance of letting the students actively participate in the 
     ]
   },
   {
-    id: "reading-notes",
+    id: "reading-notes_ES1.1Reflection",
     title: "Theoretical Foundations & Professional Reading Notes",
     course: "Educational Studies 1.1",
     year: 1,
@@ -89,7 +89,7 @@ Reflecting on my overall learning during ES 1.1, my vision of teaching has evolv
     files: [
       {
         name: "Reading Notes PDF",
-        url: "Portofolio-PDFs/ReadingNotes_DylanSchlepers-ITESS.pdf"
+        url: "Portofolio-PDFs/ReadingNotes-DylanSchlepers-ITESS.pdf"
       },
       {
         name: "ES 1.1 Reflection Document",
