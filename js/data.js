@@ -75,19 +75,25 @@ It showed me the importance of letting the students actively participate in the 
   },
   {
     id: "reading-notes",
-    title: "Professional Studies Reading Notes",
+    title: "Theoretical Foundations & Professional Reading Notes",
     course: "Educational Studies 1.1",
     year: 1,
     period: "Semester 1, Period 1",
     status: "completed",
-    summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', and LTSS theoretical frameworks.",
-    description: "Comprehensive notes and theoretical analyses based on compulsory course readings, focusing on classroom routines, behavior as communication, cognitive load theory, and active learning integration.",
-    reflection: `Compiling these reading notes helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. Furthermore, connecting cognitive load theory and Vygotsky's social constructivism to history pedagogy reinforced how crucial clear instructions and structured interactions are for maintaining an effective learning environment.`,
+    summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', alongside comprehensive ES 1.1 module reflections and learning goals.",
+    description: "Comprehensive notes, theoretical analyses, and personal module reflections based on course readings and the ES 1.1 curriculum. Focuses on classroom routines, behavior as communication, cognitive load theory, and the evolution of my teaching vision toward student-centered active learning.",
+    reflection: `Compiling these reading notes and the ES 1.1 reflection helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. 
+
+Reflecting on my overall learning during ES 1.1, my vision of teaching has evolved from a presentation-focused model to an interactive, student-centered approach rooted in constructivism (Piaget, Vygotsky). Furthermore, evaluating my study behavior as a 'Strategic' learner has made me mindful of prioritizing key pedagogical frameworks. As I prepare for my first Teaching Practice in Quarter 3 at the International School of Belgium, my goals focus on balancing youthful energy with professional authority, deepening my subject-matter preparation, and refining my classroom management skills.`,
     image: "images/NotesPica.jpg",
     files: [
       {
         name: "Reading Notes PDF",
         url: "Portofolio-PDFs/ReadingNotes_DylanSchlepers-ITESS.pdf"
+      },
+      {
+        name: "ES 1.1 Reflection Document",
+        url: "Portofolio-PDFs/ReflectionES1.1-DylanSchlepers.pdf"
       }
     ]
   }
