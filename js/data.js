@@ -32,6 +32,7 @@ Areas for Growth:
     image: "images/EggyTheory.jpg",
     files: [
       { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
+      { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
       { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
     ]
   },
@@ -42,11 +43,14 @@ Areas for Growth:
     year: 1,
     period: "Semester 1, Period 1",
     status: "completed",
-    summary: "A comprehensive reflection on my mini-lesson, peer feedback, and observations from attending peer micro-teaching sessions.",
+    summary: "A comprehensive reflection on my mini-lesson, peer feedback, and observations from attending peer micro-teaching sessions. With a updated version of the lesson",
     description: "A critical reflection covering my recorded video, received peer feedback forms, areas for improvement (such as pacing and technical setup), and observations from watching my peers teach.",
     reflection: "While teaching this complex philosophical concept presented initial hurdles with pacing, timing, and technical setup (running short and lacking presenter notes), it turned out to be an invaluable learning experience. Peer feedback highlighted my calm presence but correctly noted the need for better time management, interactive activities, and vocal projection. Moving forward, I plan to incorporate student-centered tasks, structured activities, and purposeful hand gestures to drive engagement.",
     image: "images/EggyTheory.jpg",
-    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }]
+    files: [{ name: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf", url: "Portofolio-PDFs/Reflection Mini Lesson - Dylan Schlepers 5882966.pdf" }],
+           [{ name: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers", url: "Portofolio-PDFs/TheEggTheoryLessonPlan(AfterFeedback)-DylanSchlepers" }],
+           { name: "Lesson Plan & Materials (PDF)", url: "Portofolio-PDFs/LessonPlan-EggTheory.pdf" },
+    
   },
 {
     id: "active-learning-teaching-styles",
