@@ -32,7 +32,7 @@ Areas for Growth:
     image: "images/EggyTheory.jpg",
     files: [
       { name: "Lesson Plan (PDF)", url: "Portofolio-PDFs/TheEggTheoryLessonPlan-DylanSchlepers.pdf" },
-      { name: "The Egg Theory - PowerPoint (PDF)", url: "Portofolio-PDFs/EggTheory.pdf" },
+      { name: "The Egg Theory - PowerPoint (PDF)", url: "Portofolio-PDFs/Egg Theory.pdf" },
       { name: "Mini-Lesson Video Recording", url: "https://youtu.be/LI0oWrHJOkE?si=GiTYNkS4O5_HHCzh" }
     ]
   },
