@@ -37,24 +37,6 @@ Areas for Growth:
     ]
   },
   {
-    id: "reading-notes",
-    title: "Professional Studies Reading Notes",
-    course: "Educational Studies 1.1",
-    year: 1,
-    period: "Semester 1, Period 1",
-    status: "completed",
-    summary: "Curated reading notes covering classroom and behavior management, Tom Bennett's 'Running the Room', and LTSS theoretical frameworks.",
-    description: "Comprehensive notes and theoretical analyses based on compulsory course readings, focusing on classroom routines, behavior as communication, cognitive load theory, and active learning integration.",
-    reflection: `Compiling these reading notes helped bridge the gap between abstract educational theory and concrete classroom practice. Tom Bennett's principles on routine-building and consistency ('You promote what you permit') provided a solid foundation for managing student behavior proactively. Furthermore, connecting cognitive load theory and Vygotsky's social constructivism to history pedagogy reinforced how crucial clear instructions and structured interactions are for maintaining an effective learning environment.`,
-    image: "images/ActiveLearning.jpg",
-    files: [
-      {
-        name: "Reading Notes PDF",
-        url: "Portofolio-PDFs/ReadingNotes_DylanSchlepers-ITESS.pdf"
-      }
-    ]
-  },
-  {
     id: "active-learning-teaching-styles",
     title: "Active Learning and Teaching Styles in History Lessons",
     course: "Educational Studies 1.1",
